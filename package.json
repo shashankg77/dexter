@@ -35,7 +35,7 @@
     "dotenv": "^17.3.1",
     "exa-js": "^2.10.1",
     "gray-matter": "^4.0.3",
-    "langsmith": "^0.4.12",
+    "langsmith": "^0.8.7",
     "linkedom": "^0.18.12",
     "lru-cache": "^11.5.1",
     "playwright": "^1.58.2",
